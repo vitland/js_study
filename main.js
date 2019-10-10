@@ -44,3 +44,4 @@ switch (true) {
 //     console.log('They are eaqual!');
 // }
 
+1
