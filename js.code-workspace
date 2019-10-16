@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "F:\\YandexDisk\\telegram_bot_study\\telegram_bot"
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "JS"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
